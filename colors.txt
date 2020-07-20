@@ -7,5 +7,7 @@ black
 orange
 *black
 brown
+purple
+white
 
 
