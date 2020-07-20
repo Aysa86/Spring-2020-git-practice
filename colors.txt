@@ -9,5 +9,7 @@ orange
 brown
 purple
 white
+violet
+apricot
 
 
