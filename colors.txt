@@ -1,8 +1,11 @@
 red
+pink
 green
 yellow
 blue
 black
 orange
 *black
+brown
+
 
